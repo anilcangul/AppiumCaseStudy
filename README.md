@@ -3,8 +3,11 @@
 
 This project is a Java maven project built using Appium, Selenium and TestNG.
 
-### RUN
-**src\test\Tests**
+### **RUN Test Suite**
+  
+`src\test\java\testng.xml 
+`
+
 + Case 1 - baseTest.java
 + Case 2 - CategoryTests.java
 

@@ -1,0 +1,16 @@
+
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Test-Suite-Happy-Path" >
+    <test name="Case 1" >
+        <classes>
+            <class name="Tests.baseTest"/>
+        </classes>
+    </test>
+
+    <test name="Case 2" >
+        <classes>
+            <class name="Tests.CategoryTests"/>
+        </classes>
+    </test>
+
+</suite>
