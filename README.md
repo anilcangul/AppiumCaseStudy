@@ -19,7 +19,7 @@ Allure Framework is used for test results
 To see the Allure report in one command.Type this command in terminal:
 
 
-+ **allure serve** \Users\"yourusername"\"desktop"\GetirCaseStudy\allure-results
++ **allure serve** \Users\"yourUsername"\"desktop"\GetirCaseStudy\allure-results
 
 
 
